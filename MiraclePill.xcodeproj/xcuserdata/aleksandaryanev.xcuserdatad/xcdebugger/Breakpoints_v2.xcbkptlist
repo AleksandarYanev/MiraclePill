@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "MiraclePill/ViewController.swift"
+            timestampString = "500224914.660236"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "13"
+            endingLineNumber = "13"
+            landmarkName = "ViewController"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "MiraclePill.ViewController.statePicker.setter : weak Swift.ImplicitlyUnwrappedOptional&lt;__ObjC.UIPickerView&gt;"
+                  moduleName = "MiraclePill"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/aleksandaryanev/iOS/MiraclePill/MiraclePill/ViewController.swift"
+                  timestampString = "500289919.503978"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "42">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "MiraclePill.ViewController.init (nibName : Swift.Optional&lt;Swift.String&gt;, bundle : Swift.Optional&lt;__ObjC.Bundle&gt;) -&gt; MiraclePill.ViewController"
+                  moduleName = "MiraclePill"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/aleksandaryanev/iOS/MiraclePill/MiraclePill/ViewController.swift"
+                  timestampString = "500289919.506562"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "72">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "MiraclePill.ViewController.init (coder : __ObjC.NSCoder) -&gt; Swift.Optional&lt;MiraclePill.ViewController&gt;"
+                  moduleName = "MiraclePill"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/aleksandaryanev/iOS/MiraclePill/MiraclePill/ViewController.swift"
+                  timestampString = "500289919.509745"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "31">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "MiraclePill/ViewController.swift"
+            timestampString = "500289943.472865"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "14"
+            endingLineNumber = "14"
+            landmarkName = "ViewController"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "MiraclePill.ViewController.statePickerBtn.getter : weak Swift.ImplicitlyUnwrappedOptional&lt;__ObjC.UIButton&gt;"
+                  moduleName = "MiraclePill"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/aleksandaryanev/iOS/MiraclePill/MiraclePill/ViewController.swift"
+                  timestampString = "500289943.480397"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "14"
+                  endingLineNumber = "14"
+                  offsetFromSymbolStart = "27">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "MiraclePill.ViewController.statePickerBtn.setter : weak Swift.ImplicitlyUnwrappedOptional&lt;__ObjC.UIButton&gt;"
+                  moduleName = "MiraclePill"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/aleksandaryanev/iOS/MiraclePill/MiraclePill/ViewController.swift"
+                  timestampString = "500289943.483366"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "14"
+                  endingLineNumber = "14"
+                  offsetFromSymbolStart = "42">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "MiraclePill.ViewController.init (nibName : Swift.Optional&lt;Swift.String&gt;, bundle : Swift.Optional&lt;__ObjC.Bundle&gt;) -&gt; MiraclePill.ViewController"
+                  moduleName = "MiraclePill"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/aleksandaryanev/iOS/MiraclePill/MiraclePill/ViewController.swift"
+                  timestampString = "500289943.485924"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "14"
+                  endingLineNumber = "14"
+                  offsetFromSymbolStart = "158">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "MiraclePill.ViewController.init (coder : __ObjC.NSCoder) -&gt; Swift.Optional&lt;MiraclePill.ViewController&gt;"
+                  moduleName = "MiraclePill"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/aleksandaryanev/iOS/MiraclePill/MiraclePill/ViewController.swift"
+                  timestampString = "500289943.488154"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "14"
+                  endingLineNumber = "14"
+                  offsetFromSymbolStart = "88">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
